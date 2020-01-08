@@ -1,0 +1,52 @@
+region,division,state,tot_est_pop_15_to_17,tot_est_pop_15_to_17_enrolled_in_school,percent_est_pop_15_to_17_enrolled_in_school,public_school_est_pop_15_to_17_enrolled_in_school,public_school_percent_est_15_to_17_enrolled_in_school,private_school_est_pop_15_to_17_enrolled_in_school,private_school_percent_est_15_to_17_enrolled_in_school
+South Region,East South Central Division,Alabama,193273,187386,97,166626,88.9,20760,11.1
+West Region,Pacific Division,Alaska,29834,28771,96.4,26298,91.4,2473,8.6
+West Region,Mountain Division,Arizona,274491,262318,95.6,246244,93.9,16074,6.1
+South Region,West South Central Division,Arkansas,119498,114327,95.7,105782,92.5,8545,7.5
+West Region,Pacific Division,California,1551525,1514343,97.6,1395401,92.1,118942,7.9
+West Region,Mountain Division,Colorado,206349,199355,96.6,185611,93.1,13744,6.9
+Northeast Region,New England Division,Connecticut,144177,140849,97.7,125318,89,15531,11
+South Region,South Atlantic Division,Delaware,34747,33636,96.8,29287,87.1,4349,12.9
+South Region,South Atlantic Division,District of Columbia,15551,14887,95.7,11932,80.2,2955,19.8
+South Region,South Atlantic Division,Florida,719286,694195,96.5,619917,89.3,74278,10.7
+South Region,South Atlantic Division,Georgia,426592,410644,96.3,369953,90.1,40691,9.9
+West Region,Pacific Division,Hawaii,47528,45283,95.3,35163,77.7,10120,22.3
+West Region,Mountain Division,Idaho,72586,70426,97,65465,93,4961,7
+Midwest Region,East North Central Division,Illinois,514895,500127,97.1,452049,90.4,48078,9.6
+Midwest Region,East North Central Division,Indiana,272916,261132,95.7,234362,89.7,26770,10.3
+Midwest Region,West North Central Division,Iowa,122357,118618,96.9,108645,91.6,9973,8.4
+Midwest Region,West North Central Division,Kansas,118603,114806,96.8,104684,91.2,10122,8.8
+South Region,East South Central Division,Kentucky,172394,166978,96.9,148265,88.8,18713,11.2
+South Region,West South Central Division,Louisiana,184074,175233,95.2,144424,82.4,30809,17.6
+Northeast Region,New England Division,Maine,47504,46271,97.4,40559,87.7,5712,12.3
+South Region,South Atlantic Division,Maryland,230763,224045,97.1,191871,85.6,32174,14.4
+Northeast Region,New England Division,Massachusetts,250714,244246,97.4,215363,88.2,28883,11.8
+Midwest Region,East North Central Division,Michigan,400370,387843,96.9,355146,91.6,32697,8.4
+Midwest Region,West North Central Division,Minnesota,213764,208884,97.7,191832,91.8,17052,8.2
+South Region,East South Central Division,Mississippi,123906,118975,96,105509,88.7,13466,11.3
+Midwest Region,West North Central Division,Missouri,238607,230117,96.4,203159,88.3,26958,11.7
+West Region,Mountain Division,Montana,37779,35991,95.3,32800,91.1,3191,8.9
+Midwest Region,West North Central Division,Nebraska,75797,74154,97.8,65907,88.9,8247,11.1
+West Region,Mountain Division,Nevada,111859,108693,97.2,101910,93.8,6783,6.2
+Northeast Region,New England Division,New Hampshire,50056,48857,97.6,43079,88.2,5778,11.8
+Northeast Region,Middle Atlantic Division,New Jersey,354075,344925,97.4,305012,88.4,39913,11.6
+West Region,Mountain Division,New Mexico,83688,79968,95.6,74126,92.7,5842,7.3
+Northeast Region,Middle Atlantic Division,New York,725937,702943,96.8,606962,86.3,95981,13.7
+South Region,South Atlantic Division,North Carolina,391568,378455,96.7,344511,91,33944,9
+Midwest Region,West North Central Division,North Dakota,25723,24554,95.5,22679,92.4,1875,7.6
+Midwest Region,East North Central Division,Ohio,463167,448645,96.9,392872,87.6,55773,12.4
+South Region,West South Central Division,Oklahoma,156156,150271,96.2,139106,92.6,11165,7.4
+West Region,Pacific Division,Oregon,147388,142775,96.9,130667,91.5,12108,8.5
+Northeast Region,Middle Atlantic Division,Pennsylvania,477420,459176,96.2,398907,86.9,60269,13.1
+Northeast Region,New England Division,Rhode Island,38217,36973,96.7,31657,85.6,5316,14.4
+South Region,South Atlantic Division,South Carolina,185456,179474,96.8,163800,91.3,15674,8.7
+Midwest Region,West North Central Division,South Dakota,33076,31777,96.1,28860,90.8,2917,9.2
+South Region,East South Central Division,Tennessee,256232,249639,97.4,216222,86.6,33417,13.4
+South Region,West South Central Division,Texas,1188501,1147262,96.5,1074662,93.7,72600,6.3
+West Region,Mountain Division,Utah,143485,139406,97.2,131384,94.2,8022,5.8
+Northeast Region,New England Division,Vermont,22476,21872,97.3,19469,89,2403,11
+South Region,South Atlantic Division,Virginia,314650,306161,97.3,278761,91.1,27400,8.9
+West Region,Pacific Division,Washington,268527,260707,97.1,241235,92.5,19472,7.5
+South Region,South Atlantic Division,West Virginia,65437,63524,97.1,59160,93.1,4364,6.9
+Midwest Region,East North Central Division,Wisconsin,224622,218012,97.1,198094,90.9,19918,9.1
+West Region,Mountain Division,Wyoming,21935,21188,96.6,20034,94.6,1154,5.4
